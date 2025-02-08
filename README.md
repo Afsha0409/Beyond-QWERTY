@@ -12,8 +12,8 @@ Password : Svsr@2004
 
 we have made an Android and ios applications too u can check our android and ios repos from here u 
 
-Android : https://github.com/svsairevanth12/android
-Ios : https://github.com/svsairevanth12/filleasy_ios
+Android : https://github.com/Afsha0409/Beyond-QWERTY-android
+Ios : https://github.com/Afsha0409/Beyond-QWERTY-IOS
 
 
 u can download and install the andoid apk from here : 
